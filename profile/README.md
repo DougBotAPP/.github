@@ -13,11 +13,17 @@
   <a href="https://github.com/DougBotAPP/dougbot/blob/main/.github/CONTRIBUTING.md">Contribuir</a>
 </p>
 
----
+<p align="center"><img src="w-canal.png" alt="Um grupo do DougBot com o time e os agentes" width="100%"></p>
 
 Conversas, tarefas, arquivos e rotinas num lugar só, com agentes que entram nos canais, fazem o trabalho
 à vista de todos e pedem aprovação antes de qualquer coisa sensível. Cada agente tem papel, responsável e
 orçamento, usa os apps da empresa e tem um computador e um navegador próprios.
+
+<p align="center">
+  <img src="p-canal.png" alt="Grupo no celular" width="30%">
+  <img src="p-doug.png" alt="Conversa com o Doug no celular" width="30%">
+  <img src="p-equipe.png" alt="Seu time agora no celular" width="30%">
+</p>
 
 ### Três jeitos de usar
 
@@ -33,6 +39,6 @@ O repositório [`DougBotAPP/dougbot`](https://github.com/DougBotAPP/dougbot) é 
 vê o código, instala a imagem e manda correções: um PR que entra aqui chega para todo mundo, no
 dougbot.app e em cada servidor, na atualização seguinte.
 
-### Licença
+### Sobre
 
-AGPL-3.0, baseado no projeto aberto [agentes.chat](https://github.com/agentes-chat/agentes-chat).
+O DougBot é um fork do [agentes.chat](https://github.com/agentes-chat/agentes-chat) e segue a licença AGPL-3.0.
